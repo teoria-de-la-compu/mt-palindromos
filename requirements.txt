@@ -1,0 +1,2 @@
+automata-lib==5.0.0
+pytest
